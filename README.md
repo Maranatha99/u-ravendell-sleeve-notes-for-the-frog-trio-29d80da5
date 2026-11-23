@@ -7,11 +7,11 @@
 make.fun entry: album title + back cover blurb for a jazz trio made entirely of frogs.
 
 `main.py` (Python 3.13, stdlib only, no network, deterministic) writes a
-single original title + blurb (299 characters) to `/output/entry.txt`:
+single original title + blurb (331 characters) to `/output/entry.txt`:
 
 > Pond Standard Time
 >
-> Milo on tenor, Bea on upright bass, Tad on brushes — three frogs who swing harder than bands twice their size. Cut live on a rainy Tuesday at the Lily Pad Club, where the reeds hum and the front row leans in. No gimmicks. Just standards, played low, loose, and right on the beat.
+> Milo on tenor, Bea on upright bass, Tad on brushes — three frogs who swing harder than bands twice their size. Cut live on a rainy Tuesday at the Lily Pad Club, where Milo's sax growls low over Bea's walking bass and the front row leans in. No gimmicks. Just standards, played low, loose, and right on the beat.
 
 ## Run
 

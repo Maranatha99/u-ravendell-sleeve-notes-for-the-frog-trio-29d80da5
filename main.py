@@ -11,8 +11,9 @@ TITLE = "Pond Standard Time"
 BLURB = (
     "Milo on tenor, Bea on upright bass, Tad on brushes — three frogs "
     "who swing harder than bands twice their size. Cut live on a rainy "
-    "Tuesday at the Lily Pad Club, where the reeds hum and the front row "
-    "leans in. No gimmicks. Just standards, played low, loose, and right "
+    "Tuesday at the Lily Pad Club, where Milo's sax growls low over Bea's "
+    "walking bass and the front row leans in. No gimmicks. Just standards, "
+    "played low, loose, and right "
     "on the beat."
 )
 
